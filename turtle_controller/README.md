@@ -18,7 +18,7 @@ This package includes two ROS2 nodes written in Python using the rclpy package t
     mkdir src
 
 - clone the github repository (contains the files regarding this ros2 project)
-    git clone turtle_controller
+    git clone https://github.com/DarshanBothra/ROS2-Turtle-Controller/turtle_controller
 
 ## Build the package:
 
