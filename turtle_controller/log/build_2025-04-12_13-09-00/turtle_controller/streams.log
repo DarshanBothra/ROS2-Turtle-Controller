@@ -1,0 +1,37 @@
+[0.559s] Invoking command in '/home/darshan/ros2_ws/src/turtle_controller': PYTHONPATH=/home/darshan/ros2_ws/src/turtle_controller/build/turtle_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/darshan/ros2_ws/src/turtle_controller/install/turtle_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base build/turtle_controller build --build-base /home/darshan/ros2_ws/src/turtle_controller/build/turtle_controller/build install --record /home/darshan/ros2_ws/src/turtle_controller/build/turtle_controller/install.log --single-version-externally-managed install_data
+[0.781s] running egg_info
+[0.782s] creating build/turtle_controller/turtle_controller.egg-info
+[0.782s] writing build/turtle_controller/turtle_controller.egg-info/PKG-INFO
+[0.782s] writing dependency_links to build/turtle_controller/turtle_controller.egg-info/dependency_links.txt
+[0.783s] writing entry points to build/turtle_controller/turtle_controller.egg-info/entry_points.txt
+[0.783s] writing requirements to build/turtle_controller/turtle_controller.egg-info/requires.txt
+[0.783s] writing top-level names to build/turtle_controller/turtle_controller.egg-info/top_level.txt
+[0.783s] writing manifest file 'build/turtle_controller/turtle_controller.egg-info/SOURCES.txt'
+[0.785s] reading manifest file 'build/turtle_controller/turtle_controller.egg-info/SOURCES.txt'
+[0.785s] writing manifest file 'build/turtle_controller/turtle_controller.egg-info/SOURCES.txt'
+[0.786s] running build
+[0.786s] running build_py
+[0.786s] creating /home/darshan/ros2_ws/src/turtle_controller/build/turtle_controller/build
+[0.786s] creating /home/darshan/ros2_ws/src/turtle_controller/build/turtle_controller/build/lib
+[0.786s] creating /home/darshan/ros2_ws/src/turtle_controller/build/turtle_controller/build/lib/turtle_controller
+[0.786s] copying turtle_controller/__init__.py -> /home/darshan/ros2_ws/src/turtle_controller/build/turtle_controller/build/lib/turtle_controller
+[0.786s] copying turtle_controller/turtle_odometer.py -> /home/darshan/ros2_ws/src/turtle_controller/build/turtle_controller/build/lib/turtle_controller
+[0.786s] copying turtle_controller/turtle_navigator.py -> /home/darshan/ros2_ws/src/turtle_controller/build/turtle_controller/build/lib/turtle_controller
+[0.786s] running install
+[0.787s] running install_lib
+[0.787s] creating /home/darshan/ros2_ws/src/turtle_controller/install/turtle_controller/lib/python3.10/site-packages/turtle_controller
+[0.787s] copying /home/darshan/ros2_ws/src/turtle_controller/build/turtle_controller/build/lib/turtle_controller/__init__.py -> /home/darshan/ros2_ws/src/turtle_controller/install/turtle_controller/lib/python3.10/site-packages/turtle_controller
+[0.787s] copying /home/darshan/ros2_ws/src/turtle_controller/build/turtle_controller/build/lib/turtle_controller/turtle_odometer.py -> /home/darshan/ros2_ws/src/turtle_controller/install/turtle_controller/lib/python3.10/site-packages/turtle_controller
+[0.787s] copying /home/darshan/ros2_ws/src/turtle_controller/build/turtle_controller/build/lib/turtle_controller/turtle_navigator.py -> /home/darshan/ros2_ws/src/turtle_controller/install/turtle_controller/lib/python3.10/site-packages/turtle_controller
+[0.787s] byte-compiling /home/darshan/ros2_ws/src/turtle_controller/install/turtle_controller/lib/python3.10/site-packages/turtle_controller/__init__.py to __init__.cpython-310.pyc
+[0.788s] byte-compiling /home/darshan/ros2_ws/src/turtle_controller/install/turtle_controller/lib/python3.10/site-packages/turtle_controller/turtle_odometer.py to turtle_odometer.cpython-310.pyc
+[0.788s] byte-compiling /home/darshan/ros2_ws/src/turtle_controller/install/turtle_controller/lib/python3.10/site-packages/turtle_controller/turtle_navigator.py to turtle_navigator.cpython-310.pyc
+[0.789s] running install_data
+[0.789s] creating /home/darshan/ros2_ws/src/turtle_controller/install/turtle_controller/share/ament_index
+[0.789s] creating /home/darshan/ros2_ws/src/turtle_controller/install/turtle_controller/share/ament_index/resource_index
+[0.789s] creating /home/darshan/ros2_ws/src/turtle_controller/install/turtle_controller/share/ament_index/resource_index/packages
+[0.789s] copying resource/turtle_controller -> /home/darshan/ros2_ws/src/turtle_controller/install/turtle_controller/share/ament_index/resource_index/packages
+[0.789s] creating /home/darshan/ros2_ws/src/turtle_controller/install/turtle_controller/shareturtle_controller
+[0.789s] creating /home/darshan/ros2_ws/src/turtle_controller/install/turtle_controller/shareturtle_controller/launch
+[0.789s] error: can't copy 'launch/trutle_launch.py': doesn't exist or not a regular file
+[0.803s] Invoked command in '/home/darshan/ros2_ws/src/turtle_controller' returned '1': PYTHONPATH=/home/darshan/ros2_ws/src/turtle_controller/build/turtle_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/darshan/ros2_ws/src/turtle_controller/install/turtle_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base build/turtle_controller build --build-base /home/darshan/ros2_ws/src/turtle_controller/build/turtle_controller/build install --record /home/darshan/ros2_ws/src/turtle_controller/build/turtle_controller/install.log --single-version-externally-managed install_data

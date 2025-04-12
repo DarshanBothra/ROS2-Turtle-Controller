@@ -1,0 +1,4 @@
+[console_scripts]
+turtle_navigator = turtle_controller.turtle_navigator:main
+turtle_odometer = turtle_controller.turtle_odometer:main
+
